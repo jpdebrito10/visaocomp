@@ -5,7 +5,7 @@ Repositório pt-BR/en-US
 
 1. Requirements/Requisitos: 
 
-        OpenCV;
+    OpenCV;
 
-        IDE - VScode or Pycharm;
+    IDE - VScode or Pycharm;
 
