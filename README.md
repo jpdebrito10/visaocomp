@@ -9,7 +9,7 @@ Repositório pt-BR/en-US
 
     IDE - VScode or Pycharm;
 
-    Python 3.7 or lastest; 
+    Python 3.10; 
 
 2. Installing OpenCV / Instalação OpenCV (linux Ubuntu): 
 
