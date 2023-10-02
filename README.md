@@ -43,16 +43,12 @@ Repositório pt-BR/en-US
         webcam = cv2.VideoCapture(0)
 
         #estrtura de repeticao que vai regir o funcionamento da camera
-        while True:
-        camera, frame = webcam.read()
-        cv2.imshow("webcam", frame)
+            while True:
+                camera, frame = webcam.read()
+                cv2.imshow("webcam", frame)
+        #criando o momento em que a camera para de ser exibida
+            if cv2.waitKey(1) == ord('z'):
+                break
 
-
-
-
-
-        if cv2.waitKey(1) == ord('z'):
-        break
-
-    webcam.release()
-    cv2.destroyAllWindows()
+        webcam.release()
+        cv2.destroyAllWindows()
