@@ -18,3 +18,4 @@ Repositório pt-BR/en-US
             sudo pip install opencv-python
 
 
+3. You can use paramethers to up (or no) your accuracy : /Utilização de parâmetros que aumentam (ou não) a acurácia:
