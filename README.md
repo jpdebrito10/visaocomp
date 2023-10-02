@@ -36,6 +36,8 @@ Repositório pt-BR/en-US
 
 5. Using your own webcam/ Usando sua própria webcam :
 
+
+```py
         import cv2
 
         #criando variavel webcam que receberá a cpatura de video
