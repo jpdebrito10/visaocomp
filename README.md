@@ -27,7 +27,7 @@ Repositório pt-BR/en-US
         minSize --> Minimum possible object size. Objects smaller than that are ignored; Parâmetro para sinalizar qual mínima escala de tamanho de rosto deve ser dectado, o que passar da escala passada, será ignorado pelo algoritmo; Default/Padrão: 30x30;
 
 
-4. Recognize of eyes : / Reconhecimento de olhos: 
+4. Recognizement of eyes : / Reconhecimento de olhos: 
 
 
     Algorithm--> haarcascade_eye.xml. Check the code face_eyes.py
